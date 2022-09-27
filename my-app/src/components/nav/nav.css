@@ -1,0 +1,24 @@
+.header {
+    background-color:#21222A;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 28px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    color: #61dafb;
+}
+
+.app-logo {
+    max-width: 48px;
+}
+
+.course-name {
+    color: #FFFFFF;
+}

@@ -1,0 +1,10 @@
+.content-container {
+    padding-top: 36px;
+    padding-left: 28px;
+    background-color: #282D35;
+    color: #ffffff;
+}
+
+.facts-list li:not(:last-child) {
+    margin-bottom: 20px;
+}

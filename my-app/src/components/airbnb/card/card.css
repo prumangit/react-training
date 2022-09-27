@@ -1,0 +1,45 @@
+.card-img {
+    height: 235px;
+    width: 176px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.card-img-status-container {
+    position: relative;
+}
+
+.status-container {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    padding: 0 8px;
+}
+
+.status {
+    font-size: 8px;
+}
+
+.rate-icon {
+    height: 12px;
+    width: 12px;
+    fill: #FF385C;
+}
+
+.card-content-container {
+    font-size: 12px;
+}
+
+.gray-color {
+    color: gray;
+}
+
+.skill {
+    color: #8c8c8c
+}
+
+.card-container {
+    padding: 12px 12px;
+}
